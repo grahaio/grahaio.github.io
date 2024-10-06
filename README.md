@@ -1,5 +1,4 @@
-# grahaio.github.io
-Graha International GmbH
+# Graha International GmbH
 
 # Welcome to GRAHA
 
@@ -38,4 +37,4 @@ For a full list of services, check out our [Services](https://graha.de/service/s
 
 ---
 
-For more information, visit [grahaio.com](https://graha.de).
+For more information, visit [graha.de](https://graha.de).
