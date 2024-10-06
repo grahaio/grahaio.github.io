@@ -1,6 +1,6 @@
 # Graha International GmbH
 
-# Welcome to GRAHA
+# Welcome
 
 Graha is a consultancy firm specializing in IT, telecommunications, and connected vehicle solutions. We are dedicated to empowering businesses with innovative technologies providing solutions that drive growth, efficiency, and sustainability.
 With deep-rooted expertise in artificial intelligence, we develop cutting-edge predictive models for onboard and offboard vehicle systems, shaping the future of mobility.
