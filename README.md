@@ -3,11 +3,10 @@ Graha International GmbH
 
 # Welcome to GRAHA
 
-At **GRAHA**, we specialize in IT, telecommunications, and connected vehicle mobility solutions. Our mission is to empower businesses through innovative technology, providing solutions that drive growth, efficiency, and sustainability.
+Graha is a consultancy firm specializing in IT, telecommunications, and connected vehicle solutions. We are dedicated to empowering businesses with innovative technologies providing solutions that drive growth, efficiency, and sustainability.
+With deep-rooted expertise in artificial intelligence, we develop cutting-edge predictive models for onboard and offboard vehicle systems, shaping the future of mobility.
 
-## Company Profile
-
-GRAHA is built on a foundation of **integrity**, **innovation**, and **excellence**. We collaborate with businesses to develop forward-thinking solutions in the rapidly evolving IT and automotive sectors. Our expertise spans **AI-driven predictive models**, **telecommunications**, and **connected vehicle systems**, helping to shape the future of mobility.
+Our collaborative partnerships with researchers and academics ensure we remain at the forefront of technological innovation, helping to shape the future of mobility.
 
 ### Key Focus Areas:
 - **Innovation**: Pushing boundaries with cutting-edge technologies.
@@ -20,9 +19,9 @@ To learn more, visit our [Company Profile](https://graha.de/company/company.html
 
 Our product portfolio is designed to support the dynamic needs of the IT and mobility sectors:
 
-- **Onboard & Offboard Vehicle Systems**: From predictive maintenance to smart infotainment systems, our solutions enhance vehicle safety, connectivity, and efficiency.
-- **Telecommunications Solutions**: Delivering reliable and scalable communication systems tailored to modern digital infrastructures.
 - **AI and Machine Learning Tools**: Powerful tools to analyze data, predict trends, and optimize business processes.
+- **Telecommunications Solutions**: Delivering reliable and scalable communication systems tailored to modern digital infrastructures.
+- **Onboard & Offboard Vehicle Systems**: From predictive maintenance to smart infotainment systems, our solutions enhance vehicle safety, connectivity, and efficiency.
 
 Discover more about our [Products](https://graha.de/product/product.html).
 
