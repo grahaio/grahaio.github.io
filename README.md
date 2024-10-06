@@ -2,7 +2,7 @@
 
 # Welcome
 
-Graha is a consultancy firm specializing in IT, telecommunications, and connected vehicle solutions. We are dedicated to empowering businesses with innovative technologies providing solutions that drive growth, efficiency, and sustainability.
+Graha is a consulting firm in innovative technology, telecommunications, and connected vehicle mobility solutions. We are dedicated to empowering businesses with innovative technologies providing solutions that drive growth, efficiency, and sustainability.
 With deep-rooted expertise in artificial intelligence, we develop cutting-edge predictive models for onboard and offboard vehicle systems, shaping the future of mobility.
 
 Our collaborative partnerships with researchers and academics ensure we remain at the forefront of technological innovation, helping to shape the future of mobility.
